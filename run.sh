@@ -119,4 +119,4 @@ else
 
 fi
 
-# python3 postprocess.py
+python3 postprocess.py
